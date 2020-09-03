@@ -1,5 +1,14 @@
-/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Owner.java
-/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Person.java
-/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Vet.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/VetService.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/OwnerService.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/AbstractMapService.java
 /Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/PetType.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/PetService.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/BaseEntity.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Owner.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/PetServiceMap.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Person.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/VetServiceMap.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/CrudService.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/OwnerServiceMap.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Vet.java
 /Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Pet.java

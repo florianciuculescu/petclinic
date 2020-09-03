@@ -1,1 +1,5 @@
 /Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-web/src/main/java/com/example/petclinic/PetclinicApplication.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-web/src/main/java/com/example/petclinic/bootstrap/DataLoader.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-web/src/main/java/com/example/petclinic/controllers/VetController.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-web/src/main/java/com/example/petclinic/controllers/OwnerController.java
+/Users/fciuculescu/Desktop/SpringGuru/petclinic/pet-clinic-web/src/main/java/com/example/petclinic/controllers/IndexController.java
