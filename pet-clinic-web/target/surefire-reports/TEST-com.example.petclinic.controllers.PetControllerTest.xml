@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.petclinic.controllers.OwnerControllerTest" time="0.299" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.petclinic.controllers.PetControllerTest" time="0.08" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -60,12 +60,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="processUpdateOwnerForm" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.219"/>
-  <testcase name="findOwners" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.01"/>
-  <testcase name="processFindFormReturnOne" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.01"/>
-  <testcase name="initUpdateOwnerForm" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.009"/>
-  <testcase name="initCreationForm" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.008"/>
-  <testcase name="processFindFormReturnMany" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.014"/>
-  <testcase name="displayOwner" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.014"/>
-  <testcase name="processCreationOwnerForm" classname="com.example.petclinic.controllers.OwnerControllerTest" time="0.011"/>
+  <testcase name="processUpdateForm" classname="com.example.petclinic.controllers.PetControllerTest" time="0.031"/>
+  <testcase name="findOwner" classname="com.example.petclinic.controllers.PetControllerTest" time="0.008"/>
+  <testcase name="initUpdateForm" classname="com.example.petclinic.controllers.PetControllerTest" time="0.01"/>
+  <testcase name="processCreationForm" classname="com.example.petclinic.controllers.PetControllerTest" time="0.009"/>
+  <testcase name="initCreationForm" classname="com.example.petclinic.controllers.PetControllerTest" time="0.009"/>
+  <testcase name="initOwnerBinder" classname="com.example.petclinic.controllers.PetControllerTest" time="0.007"/>
+  <testcase name="populatePetTypes" classname="com.example.petclinic.controllers.PetControllerTest" time="0.006"/>
 </testsuite>
